@@ -1,0 +1,18 @@
+Data Architect -> designs the way data will be retreived, processed and consumed
+
+Data Engineer -> processes the obtained data so that it is ready for analysis 
+
+Database Administrator -> handles this control of data, mainly works with traditional data 
+
+BI Analyst -> performs analyzes and reporting of past historical data
+
+BI Consultant -> external BI analyst 
+
+BI Developer -> handles very powerful and advanced programming languages to perform analysis specifically designed for the company
+
+Data Scientist -> employs traditional statstical methods or unconventional machine learning techniques for making
+predictions
+
+Data Analyst -> prepares more advanced types of analysis 
+
+ML Engineer -> very tough, applies state-of-the-art computational models
