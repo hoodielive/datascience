@@ -1,0 +1,42 @@
+Data [traditional and Big]
+
+When is it applied? 
+At the beginning of your analysis 
+
+Why you need it?
+>data-driven decisions require well-organized and relevant raw data stored in a digital format 
+
+Traditionally -> Preprocessing 
+  -> class labeling (categorical and numerical)
+  -> data cleansing 
+  -> dealing with missing values 
+
+Case specific: balancing and shuffling datasets 
+
+Big -> Preprocessing 
+  -> class labeling (number, text, digital images, digital video data, digital audio data)
+  -> data cleansing 
+  -> dealing with missing values
+
+Case specific: text data mining, confidentiality - preserving data mining techniques  
+
+Where? 
+
+Traditionally -> basic customer data, historical stock price data 
+  Programming languages -> r, python, sql, matlab
+  Software -> excel, IBM SPSS
+
+
+Big -> social media, financial trading data 
+  Programming languages -> r, python, java, scala
+  Software -> hadoop, apache hbase, mongodb
+
+
+Who? 
+
+Traditionally -> Data Architect, Data Engineer, Database Administrator
+Big -> Big Data Architect, Big Data Engineer 
+
+Are you aware? 
+200,000 lines of data is not necessarily big data. It is not just volume that defines a data set as 'big'
+- variety, variability, velocity, veracity and other characteristics are determinative as well. 
