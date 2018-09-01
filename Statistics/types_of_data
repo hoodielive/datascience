@@ -1,0 +1,27 @@
+Types of Data 
+
+Categorical and Numerical 
+
+Categorical 
+  categories and group
+  yes and no questions 
+
+Numerical 
+  represents numbers 
+    discrete and continuous 
+    
+    discrete
+    ex. # of children you want to have [x10 integer]
+        grades on a SAT [ F- A+]
+        number of objects 
+        money
+
+    continuous 
+    ex. weight gain [weight is in constant flux]
+        drops of sweat 
+        height
+        area 
+        distance 
+        time
+
+
