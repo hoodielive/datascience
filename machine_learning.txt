@@ -1,0 +1,50 @@
+What is at the core of machine learing (ml)
+  1. Creating an algorithm, which a computer then uses to find a model that fits the data as best as possible
+  2. And makes very accurate predictions based on that
+  
+
+  ML algorithm
+  - a trial-and-error process [each consecutive trial is at least as good as the previous one]
+
+  Data -> Model -> Objective Function - Optimization Algorthim 
+
+  - train the Model
+  - Obj Func: minimized
+  - Optimization Algorithm: has done its job
+
+Benefit - the robot can learn to fire more effectively than a human!
+Use - improve complex computational models (business)
+
+  3 Types of ML
+    1. Supervised Learning -> training an algorithm resembles a teacher supervising her students
+       Labelled data (associating or labelling a target to a type of arrow)
+       we know the target prior to the shot
+       we can associate that shot with a target
+       objective function -> to measure the inaccuracy 
+       optimization algorithm -> to improve the way the robot shoots
+    2. Unsupervised Learning -> look for a model that divides arrows in a certain way
+    3. Reinforcement Learning -> every time it fires better - its rewarded re|warded in|ward in|no|cent
+
+  Model - highly complex mathematical formula 
+  Arrows - a data set
+  Target - various and quantifiable goals 
+
+  Types of Supervised Learning 
+  SVMs - support vector machines 
+  NNs - neural networks 
+  Deep learning (new, revolutionary approach, fundamentally different from other approaches and broad pratical scope
+      of application in that it is extremely accurate)
+  random forests
+  bayesian networks 
+
+  UnSupervised Learning 
+  k-means (mostly used)
+  deep learning 
+
+  Reinforcement Learning
+  similiar to supervised learning, but instead of minimizing the loss one maximizes reward
+
+  Machine Learning Use Cases:
+  Bank Fraud [fraud detection] - [supervised learning, discerning anomalies and funny transactions are flagged]
+  Client Retention - [supervised learning of customer trends, find mostly loyal customers and award them discounts]
+

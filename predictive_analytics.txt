@@ -1,0 +1,113 @@
+Predictive Analytics:
+  assess potential future scenarios (outcomes) by using advanced stastical methods (Traditional Methods)
+  utilize AI to predict behavior in unpredecented ways (Machine Learning) -> better for BIG Data 
+
+
+Techniques for Working with Traditional Data:
+Data Collection
+  raw data/facts or primary data - has to be processed and converted into meaningful information 
+
+  Data          => raw facts, processed data or information 
+  raw data      => cannot be analyzed straight away 
+  raw facts     => is untouched data you have accumulated and stored on the server 
+  primary data  => data collection (first step)
+                   surveys, cookies, etc
+
+  raw data -> processing -> information 
+
+  data pre-processing, a group of operations that convert raw data into a format that is more understandable 
+  
+  class labeling - arranging by category or (numerical)
+    numerical -> number of goods sold -> 9,365 units [data like this can be manipulated]
+    categorical -> New York, USA [!can be manipulated] 
+  
+  data cleansing -> deal with inconsistent data (misspelled words, inaccurate information, missing values)
+
+  Specificity:
+    Balancing -> ascertain who or percentage of | data-shuffling [prevents unwanted patterns, improves predictive performance]
+
+  Entity-relationship diagram (ER diagram)
+  Relational Schema [distinct data-table]
+
+
+Traditional - Basic Customer Data - know the difference between categorical and numerical data
+Text Data Mining 
+
+Data Masking, conceals the original data with random and false data | conduct analysis | keep all confidential info in a secure place
+
+FaceBook
+- photos
+- messages
+- names
+- ids
+- voice records
+
+=Big Data 
+
+Financial trading data 
+- record the stock price every second 
+
+information -> BI (business intelligence BI analysis) :: Job of a Business Analyst 
+data skills + business knowledge + intuition 
+explain past performance 
+
+What happened? 
+When did it happen?
+How many units did we sell? 
+In which region did we sell the most goods? 
+
+How did our email marketing perform last quarter in terms of click-through rates and revenue generated? 
+And how does that compare to the performance in the same quarter of last year? (observations)
+  Observe:
+    => sales volume
+    => new customers 
+    => monthly revenues
+    => customers 
+
+    Quantification, represent observations as numbers 
+   Metrics - aims at gauging business performance or progress 
+   Measure - related to a simple descriptive statistics of past performance 
+   Metric = measure + business meaning 
+
+   KPIs - Key Performance Indictors (KPIs)
+   you can extract all possible metrics from a dataset, but this is both cumbersone and not necessary,
+   you should select key peformance items that make sense in the context of your interest and business 
+   -> KPIs = metrics + business objectives 
+
+   Key because they are related to your main business goals 
+   Performance  because of how successfully they have performed within an alloted timeframe
+   Indicators because they are generated only from users who have clicked on a link provided in your ad campaign
+  
+   Metric
+   - the traffic of a page from a website that was visited by any type of user 
+
+   KPI
+   - the traffic generated only from users who have clicked on a link provided in your ad campaign
+
+   General Managers want BI Reports and Dashboards [lol]
+
+  Price Optimization (hotel sites - make things attractive)
+  Inventory Management (seasons)
+
+After you have created BI graphs and shiii.. you want to pipe that info into ML to prophesy movements 
+
+Regression - a model used for quantifying casual relationships among different variables included in your analysis
+
+y=bx 
+if y = house price and b represents a coefficent which is multiplied by x (the house size)
+
+Define >
+Linear Regression
+Logistic Regression (non linear) - the values on the vertical line will be 1s and 0s only 
+Cluster Analysis 
+Factors 
+y = a + b1 x1 + b2x2 +b3x3 +... + bnxn
+x: explanatory variable (regressors, idependent variable, predictor variable)
+
+Factor Analysis 
+
+Time Series -> Development of values over time (sales volume) - plotting values against time since time is always
+on a horizontal line seeing that its independent of any other variable (in this dimension lol)
+
+UX (User Experience)
+
