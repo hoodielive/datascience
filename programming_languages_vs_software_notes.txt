@@ -1,0 +1,42 @@
+R and Python is the most popular tools 
+
+- both can manipulate data 
+- suitable for mathematical and statistical computations 
+- they are adaptable 
+
+not able to address to problems specific to some domains:
+  i.e. SQL 
+   created for working with relational database management systems (because it was specifically created when working
+       with traditional historical data is where it is more advantageous)
+
+Matlab 
+- ideal for mathematical functions or matrix manipulations 
+- paid language 
+
+Big Data 
+- Java/Scala 
+very useful when combining data from multiple sources 
+
+Machine Learning 
+Javascript
+C++ 
+Scala 
+Java 
+Python 
+R 
+
+Software Solutions 
+- smaller scope 
+- a lot easier to learn 
+
+i.e. Excel and SPSS 
+Hadoop (collection of programs - software framework)
+MongoDB
+Apache Hbase 
+SAS 
+PowerBI
+tableau 
+Qlik 
+Stata 
+
+
