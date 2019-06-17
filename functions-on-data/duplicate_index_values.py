@@ -41,4 +41,5 @@ print(d.count())
 print(d.min())
 print(d.max())
 
-
+# get it all / data 
+print(d.describe())
