@@ -11,3 +11,8 @@ print(iris.keys())
 # display actual dataset
 print(iris.data)
 
+# display targets
+print(iris.target)
+
+# we display names
+print(iris.target_names)
