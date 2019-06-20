@@ -16,3 +16,6 @@ print(iris.target)
 
 # we display names
 print(iris.target_names)
+
+# data shape
+print(iris.data.shape)
