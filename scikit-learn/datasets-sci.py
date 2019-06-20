@@ -19,3 +19,6 @@ print(iris.target_names)
 
 # data shape
 print(iris.data.shape)
+
+# iris.DESCR
+print(iris.DESCR)
