@@ -5,3 +5,5 @@ iris = ds.load_iris()
 print(type(iris))
 
 print(iris.keys())
+
+print(iris.data)
