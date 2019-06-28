@@ -1,6 +1,6 @@
 import pandas as pd 
 
 df1 = pd.read_csv('./sample.csv', nrows=2)
-df1.to_csv('./newdata')
+df1.to_csv('./newdata', sep='|')
 
 print(df1)
