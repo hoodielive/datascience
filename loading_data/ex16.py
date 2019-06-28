@@ -10,7 +10,7 @@ import pandas as pd
 df1 = pd.read_csv('./sample.csv', sep=',', nrows=2)
 
 
-df2 = pd.read_csv('./2colnums.csv')
+df2 = pd.read_csv('./2colnums.csv', nrows=2)
 
 print(df1)
 print('-' * 35)
